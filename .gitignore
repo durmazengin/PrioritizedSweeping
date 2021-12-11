@@ -1,0 +1,9 @@
+**/.vs/
+**/lst/
+**/obj/
+*.log
+*.user
+*.cache
+*.suo
+**/Debug/
+**/Release/
